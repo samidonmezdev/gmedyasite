@@ -1,0 +1,14 @@
+{
+    "Global Quote": {
+        "01. symbol": "^GSPC",
+        "02. open": "2918.4600",
+        "03. high": "2942.5700",
+        "04. low": "2912.1600",
+        "05. price": "2939.6800",
+        "06. volume": "1725227281",
+        "07. latest trading day": "2020-04-29",
+        "08. previous close": "2863.3900",
+        "09. change": "76.2900",
+        "10. change percent": "2.6643%"
+    }
+}

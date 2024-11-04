@@ -1,0 +1,14 @@
+{
+    "Global Quote": {
+        "01. symbol": "DJIA",
+        "02. open": "23628.2402",
+        "03. high": "23826.0000",
+        "04. low": "23417.6797",
+        "05. price": "23775.2695",
+        "06. volume": "376020000",
+        "07. latest trading day": "2020-04-24",
+        "08. previous close": "23515.2598",
+        "09. change": "260.0098",
+        "10. change percent": "1.1057%"
+    }
+}
